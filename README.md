@@ -8,3 +8,6 @@
 ![Rplot02](https://github.com/srikavya26/R-practise/assets/95865936/472ecf87-e94b-41b5-b7e0-c8feba1069b7)
 # Output : 
 <img width="1280" alt="Screenshot 2023-10-11 at 9 56 33 AM" src="https://github.com/srikavya26/R-practise/assets/95865936/793de947-c5f3-441b-932a-2e7b462e058d">
+
+## Dataframe , Tibble
+<img width="1280" alt="Screenshot 2023-10-12 at 2 27 48 PM" src="https://github.com/srikavya26/R-practise/assets/95865936/8052776a-cb39-4e33-a6bd-f96c766d6794">
