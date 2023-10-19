@@ -1,0 +1,6 @@
+install.packages("ggplot2")
+install.packages("palmerpenguins")
+library(ggplot2)
+library(palmerpenguins)
+data(penguins)
+View(penguins)
